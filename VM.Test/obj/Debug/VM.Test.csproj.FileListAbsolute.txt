@@ -1,0 +1,5 @@
+C:\Projects\VM\VM.Test\bin\Debug\VM.Test.dll
+C:\Projects\VM\VM.Test\bin\Debug\VM.Test.pdb
+C:\Projects\VM\VM.Test\obj\Debug\VM.Test.csprojResolveAssemblyReference.cache
+C:\Projects\VM\VM.Test\obj\Debug\VM.Test.dll
+C:\Projects\VM\VM.Test\obj\Debug\VM.Test.pdb

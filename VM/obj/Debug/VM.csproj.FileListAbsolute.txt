@@ -1,0 +1,13 @@
+C:\Projects\VM\VM\bin\Debug\VM.exe.config
+C:\Projects\VM\VM\bin\Debug\VM.exe
+C:\Projects\VM\VM\bin\Debug\VM.pdb
+C:\Projects\VM\VM\obj\Debug\VM.csprojResolveAssemblyReference.cache
+C:\Projects\VM\VM\obj\Debug\VM.Properties.Resources.resources
+C:\Projects\VM\VM\obj\Debug\VM.csproj.GenerateResource.Cache
+C:\Projects\VM\VM\obj\Debug\VM.exe
+C:\Projects\VM\VM\obj\Debug\VM.pdb
+C:\Projects\VM\VM\obj\Debug\VM.MainForm.resources
+C:\Projects\VM\VM\obj\Debug\VM.Controls.CoinsTabloControl.resources
+C:\Projects\VM\VM\obj\Debug\VM.Controls.UserPocketControl.resources
+C:\Projects\VM\VM\obj\Debug\VM.Controls.ProductControl.resources
+C:\Projects\VM\VM\obj\Debug\VM.Controls.VMPocketStateControl.resources
